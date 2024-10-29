@@ -138,4 +138,4 @@ Microservices sẽ chia hệ thống thành các dịch vụ độc lập, mỗi
   - **TimecardService** ghi lại và quản lý dữ liệu chấm công, liên kết với thông tin người dùng từ **UserService**.
 
 ## Kết Luận
-Hệ thống quản lý lương của Acme, Inc. dự kiến sẽ cải thiện quy trình quản lý lươ
+Hệ thống quản lý lương của Acme, Inc. dự kiến sẽ cải thiện quy trình quản lý lương, tăng cường bảo mật và tự động hóa thanh toán. Việc áp dụng kiến trúc Microservices cho phép dễ dàng mở rộng và bảo trì hệ thống trong tương lai. Các dịch vụ độc lập như User Service, Payroll Service, Timecard Service và Payment Service sẽ làm việc cùng nhau để cung cấp giải pháp hiệu quả cho việc quản lý lương và chấm công.
