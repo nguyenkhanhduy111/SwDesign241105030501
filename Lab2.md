@@ -16,7 +16,7 @@ Dưới đây là mã Java mô phỏng cho ca sử dụng "Maintain Timecard" tr
 
 ### Mã nguồn cho lớp `Timecard`
 
-```java
+java
 import java.util.Date;
 
 public class Timecard {
@@ -87,15 +87,13 @@ public class Main {
 
 2. **Chỉnh sửa**: Bạn có thể thay đổi các phần mô tả, các lớp hoặc phương thức sao cho phù hợp với yêu cầu và chi tiết cụ thể của hệ thống Payroll System.
 
-### Bước 3: Lưu và Commit tệp
+Bước 3: Lưu và Commit tệp
 
 1. Nhấn vào **Commit new file** để lưu tệp vào kho lưu trữ.
 
-### Bước 4: Xem trước và kiểm tra tài liệu
+Bước 4: Xem trước và kiểm tra tài liệu
 
 1. Truy cập vào kho lưu trữ của bạn và nhấp vào tệp `MaintainTimecardAnalysis.md` để xem trước nội dung và bố cục.
 2. Đảm bảo rằng mã nguồn và các tiêu đề hiển thị đúng theo yêu cầu.
-
----
 
 Với các bước này, bạn sẽ có một tài liệu Markdown với nội dung mô tả phân tích các ca sử dụng và mã Java mô phỏng cho ca sử dụng "Maintain Timecard" tương tự như hình ảnh bạn đã gửi.
