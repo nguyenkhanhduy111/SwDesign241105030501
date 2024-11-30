@@ -6,6 +6,7 @@ User Interface Subsystem:
 - Hiển thị thông báo lỗi hoặc chuyển hướng sau khi xác thực.
   
 Authentication Subsystem:
+
 - Kiểm tra thông tin đăng nhập từ cơ sở dữ liệu.
 - Mã hóa và giải mã mật khẩu.
 
